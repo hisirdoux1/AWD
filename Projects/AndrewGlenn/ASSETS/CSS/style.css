@@ -19,7 +19,7 @@ body {
 
 .andrew {
     height: 100%;
-    background-image: url("/Projects/AndrewGlenn/ASSETS/img/andrew.jpg");
+    background-image: url("https://i.postimg.cc/yxr2NyP9/andrew.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -34,7 +34,7 @@ body {
 .trail {
     height: 60vh;
     width: 800vw;
-    background-image: url("/Projects/AndrewGlenn/ASSETS/img/trail3.png");
+    background-image: url("https://i.postimg.cc/XqwxRKP4/trail3.png");
     background-repeat: repeat-x;
     position: absolute;
     top: 70vh;
@@ -45,7 +45,7 @@ body {
 .car {
     height: 100px;
     width: 380px;
-    background-image: url("/Projects/AndrewGlenn/ASSETS/img/car_body.png");
+    background-image: url("https://i.postimg.cc/fTzgGpMP/car-body.png");
     background-size: cover;
     background-repeat: no-repeat;
     position: absolute;
@@ -76,7 +76,7 @@ body {
 .car2 {
     height: 200px; 
     width: 380px; 
-    background-image: url("/Projects/AndrewGlenn/ASSETS/img/car2.png");
+    background-image: url("https://i.postimg.cc/L8b4WGZk/car2.png");
     background-size: 80% auto;
     background-repeat: no-repeat;
     position: absolute;
